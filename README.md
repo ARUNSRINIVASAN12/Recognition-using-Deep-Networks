@@ -35,6 +35,24 @@ working with neural networks.
 - Arun Srinivasan V K
 - Abhinav Anil
 
+### Languages used
+- Python
+- Bash
+
+### Libraries used
+- torch
+- torchvision
+- Numpy
+- OpenCV
+- Matplotlib
+- sys
+- os
+- Wandb
+
+### Softwares used
+- WandB
+- Netron (onnx)
+
 
 ## How it works?
 
